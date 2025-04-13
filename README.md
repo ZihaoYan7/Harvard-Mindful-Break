@@ -68,8 +68,8 @@
     <div class="container">
         <h1>Harvard Mindful break 🧘</h1>
         <p>Here, you can relax and enjoy a moment of tranquility. Hopefully, this space will bring you warmth and comfort.</p >
-        <button class="button" onclick="redirect('https://www.youtube.com/embed/inpok4MKVLM?autoplay=1&mute=1')">5-minute meditation video</button>
-        <button class="button" onclick="redirect('https://www.youtube.com/watch?v=cEqZthCaMpo')">1-minute meditation video</button>
+        <button class="button" onclick="redirect('https://rr2---sn-p5qddn7k.googlevideo.com/videoplayback?expire=1744561067&ei=S4_7Z8KjHZiFt7EPxreyoQE&ip=2a09%3Abac5%3A638b%3A123c%3A%3A1d1%3Ad1&id=o-ABm4c6gK8nHawAnHGJv_vuUh8P9cfUtW-B1ni2tP7dLE&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AccgBcPguUfuY9MaaBH8Dxwz17jUIjTkNl1NrXgeNWzTroK7vi6Ee-mTGeJUL_G6Ish7WUHR-f-0IgXG&vprv=1&svpuc=1&mime=video%2Fmp4&ns=fWMiS1REr0uAf0ty0uDABXcQ&rqh=1&cnr=14&ratebypass=yes&dur=316.836&lmt=1708759069575902&lmw=1&c=TVHTML5&sefc=1&txp=4538434&n=pEwcOUAJ4vRmdw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAL3UW-tN4eHrE8kfhxO8lcCIIcap90_uTZRG40LQXe1aAiB9a6M3M6IMd9h-3r9wlTqH5zMWo2pUFl-vxGdqwgJupw%3D%3D&redirect_counter=1&rm=sn-n4vlk7z&rrc=104&fexp=24350590,24350737,24350827,24350961,24351173,24351229,24351523,24351528,24351545,24351606,24351638&req_id=7ba9b5ca76d6a3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1744539505,&mh=gw&mip=206.40.55.106&mm=31&mn=sn-p5qddn7k&ms=au&mt=1744539253&mv=u&mvi=2&pl=24&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRgIhAPv91zdn3eQYSpGDZDjkW8EgkUAaDaexPcWABwP3MVZKAiEA0YONbBOapHWemzcaXHtSruOCz6NaLPqXfhd6n00B3cI%3D')">5-minute meditation video</button>
+        <button class="button" onclick="redirect('https://rr4---sn-p5qddn7r.googlevideo.com/videoplayback?expire=1744562155&ei=i5P7Z4jiKJOYsfIP-qWiyQM&ip=2a09%3Abac5%3A638b%3A1232%3A%3A1d0%3Ae2&id=o-AOs3c28XC4eGP8qW-Go9jKgmU8EvaytzjFTWiQyTFDxL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AccgBcMbsRFibdmqs4wPWE-pZZLavNNIB5vw2y2wl6D1x3NZnfblLe7N7WwmCTeDizVC7OZaDZD55RJ0&vprv=1&svpuc=1&mime=video%2Fmp4&ns=DHzDzGKuDDDAqNwymJziKRQQ&rqh=1&cnr=14&ratebypass=yes&dur=70.054&lmt=1708821929845804&lmw=1&c=TVHTML5&sefc=1&txp=4438434&n=dNRsQLQJwg3-2A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAMVA2gYVyMghgdx9ki-tSI_alOD4inmlAJa6WuWHeCQjAiAD-IHi-tINRklmU-gIO00Ypjjd0Bj5TG1xnJm9HVqFXQ%3D%3D&redirect_counter=1&rm=sn-n4vld7s&rrc=104&fexp=24350590,24350737,24350827,24350961,24351173,24351230,24351430,24351524,24351528,24351545,24351582,24351606,24351638&req_id=cfc22e872836a3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1744540568,&mh=VW&mip=206.40.55.106&mm=31&mn=sn-p5qddn7r&ms=au&mt=1744539253&mv=u&mvi=4&pl=24&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRAIgYJZiP2egvxDvyIL0aKOXAbqzdmaN7yP7uHwTmmgDXDcCIG2oOcnYsnSUNk8jVPA0MQ9ayXNYYnKGd13A5-e-47ZG')">1-minute meditation video</button>
     </div>
 
     <script>
@@ -77,6 +77,6 @@
         function redirect(url) {
             window.location.href = url;
         }
-    </script>
+    </script> 
 </body>
 </html>
