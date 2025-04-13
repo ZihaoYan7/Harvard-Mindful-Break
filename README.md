@@ -45,6 +45,22 @@
             opacity: 0.6;
             z-index: -1;
         }
+        .button {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            color: #fff;
+            background-color: #4a90e2;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #3b78c3;
+        }
     </style>
 </head>
 <body>
@@ -52,14 +68,15 @@
     <div class="container">
         <h1>Harvard Mindful break 🧘</h1>
         <p>Here, you can relax and enjoy a moment of tranquility. Hopefully, this space will bring you warmth and comfort.</p >
+        <button class="button" onclick="redirect('https://www.youtube.com/embed/inpok4MKVLM?autoplay=1&mute=1')">5-minute meditation video</button>
+        <button class="button" onclick="redirect('https://www.youtube.com/watch?v=c1Ndym-IsQg')">1-minute meditation video</button>
     </div>
 
     <script>
-        function showAlert() {
-            alert("Please take a moment to relax and enjoy the warmth of this space.");
-        window.location.href = "https://www.youtube.com/embed/inpok4MKVLM?autoplay=0&mute=1";
+        // 定义一个函数来跳转到指定的网页
+        function redirect(url) {
+            window.location.href = url;
         }
-        setInterval(showAlert, 3000);
     </script>
 </body>
 </html>
