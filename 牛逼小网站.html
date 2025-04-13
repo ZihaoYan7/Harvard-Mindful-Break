@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -69,7 +70,7 @@
         <h1>Harvard Mindful break 🧘</h1>
         <p>Here, you can relax and enjoy a moment of tranquility. Hopefully, this space will bring you warmth and comfort.</p >
         <button class="button" onclick="redirect('https://www.youtube.com/embed/inpok4MKVLM?autoplay=1&mute=1')">5-minute meditation video</button>
-        <button class="button" onclick="redirect('https://www.youtube.com/watch?v=c1Ndym-IsQg')">1-minute meditation video</button>
+        <button class="button" onclick="redirect('https://www.youtube.com/watch?v=cEqZthCaMpo')">1-minute meditation video</button>
     </div>
 
     <script>
